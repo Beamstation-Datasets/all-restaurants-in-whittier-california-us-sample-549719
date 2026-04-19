@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Whittier, California. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Whittier, California, US",
-  "export_job_id": "02945bc2-78e0-43e7-bc3f-fbd0bc8fa7f3",
+  "export_job_id": "400dadeb-3066-4011-8fe9-5f7e9250c64c",
   "github_org": "Beamstation-Datasets",
   "id_short": 549719,
   "location_name": "Whittier",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/549719/beamstation_549719_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.95,
   "sample_records": 19,
-  "sample_sha256": "cf683c017f7adfb75acec62f4b8c1a9292c6e014ca1d32df60dc2a117d5437de",
-  "sample_size_bytes": 88803,
+  "sample_sha256": "d8e3fac3d69403c47a99bc9bda964ee2b3daf1cdcc5b8c1a50dad10e8dab5780",
+  "sample_size_bytes": 80548,
   "total_records": 191,
-  "updated_at": "2026-04-09T13:51:47.451724+00:00"
+  "updated_at": "2026-04-16T14:17:42.426733+00:00"
 }
