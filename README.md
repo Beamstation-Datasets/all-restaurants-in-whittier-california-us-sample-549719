@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 191 records |
 | Free sample size | 19 records (9.95%) |
-| Last export | 2026-04-09T13:51:47.451724+00:00 |
+| Last export | 2026-04-16T14:17:42.426733+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-whittier-california-us-sample-549719/releases/download/sample-latest/beamstation_549719_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
