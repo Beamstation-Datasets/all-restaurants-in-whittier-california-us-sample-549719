@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8076ee6-c5ee-4775-8f41-2db37c105850",
+  "export_job_id": "b90a9178-3d7c-4fc1-b147-8ff489fc2d40",
   "id_short": 549719,
-  "published_at": "2026-04-23T19:29:03Z",
+  "published_at": "2026-05-01T07:05:05Z",
   "repo_name": "all-restaurants-in-whittier-california-us-sample-549719",
   "sample_asset_name": "beamstation_549719_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/549719/beamstation_549719_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "2a5a08892bcd7110e21f2354a4404b425451f119f55162df657fb821d40c39a5",
-  "sample_size_bytes": 79998,
-  "total_records": 187
+  "sample_records": 17,
+  "sample_sha256": "5c85c5044f8a23a3baa592fe1b5717b72809eb962f5a74f7d8718d52c462cd02",
+  "sample_size_bytes": 76974,
+  "total_records": 178
 }
